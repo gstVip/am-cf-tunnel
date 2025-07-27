@@ -1,3 +1,4 @@
 https://raw.githubusercontent.com/gstVip/am-cf-tunnel/main/ipJP.txt
 https://raw.githubusercontent.com/gstVip/am-cf-tunnel/main/ipHK.txt
 https://raw.githubusercontent.com/gstVip/am-cf-tunnel/main/ipUS.txt
+https://raw.githubusercontent.com/gstVip/am-cf-tunnel/main/ipv4.txt
