@@ -5,5 +5,5 @@
 103.160.204.59:443#HK
 198.62.62.4:443#HK
 75.2.32.4:443#HK
-c.xf.free.hr
-yecaoyun.com
+c.xf.free.hr#HK
+yecaoyun.com#HK
