@@ -1,6 +1,3 @@
-198.62.62.156:443#US
-162.159.129.11:2053#US
-162.159.129.67:8443#US
 104.16.134.27:2083#US
 104.25.254.4:2087#US
 104.17.128.1:2096#US
@@ -9,18 +6,8 @@ abdullah.ns.cloudflare.com
 bowen.ns.cloudflare.com
 benedict.ns.cloudflare.com
 braden.ns.cloudflare.com
-cris.ns.cloudflare.com
-craig.ns.cloudflare.com
-decker.ns.cloudflare.com
 damien.ns.cloudflare.com
 dylan.ns.cloudflare.com
-103.160.204.59:443#HK
-198.62.62.4:443#HK
-75.2.32.4:443#HK
-104.17.142.12:443#HK
-104.17.68.85:443#HK
-104.17.71.31:443#HK
-time.is
 icook.com
 icook.tw
 ip.sb
@@ -55,7 +42,6 @@ wilson.ns.cloudflare.com
 www.4chan.org
 www.okcupid.com
 www.glassdoor.com
-www.udemy.com
 www.iakeys.com
 www.sean-now.com
 whatismyipaddress.com
@@ -63,7 +49,6 @@ www.pcmag.com
 www.ipchicken.com
 iplocation.io
 www.who.int
-www.wto.org
 stock.hostmonit.com 
 www.tushencn.com 
 www.7749tv.com 
@@ -80,5 +65,3 @@ dnschecker.org
 tasteatlas.com
 pixiv.net
 comicabc.com
-c.xf.free.hr
-yecaoyun.com
