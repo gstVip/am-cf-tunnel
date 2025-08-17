@@ -1,10 +1,3 @@
-156.238.19.8:443#JP
-www.4chan.org#JP
-www.okcupid.com#JP
-www.glassdoor.com#JP
-www.iakeys.com#JP
-www.sean-now.com#JP
-whatismyipaddress.com#JP
 160.153.138.114:443#JP
 160.153.138.138:443#JP
 160.153.138.164:443#JP
